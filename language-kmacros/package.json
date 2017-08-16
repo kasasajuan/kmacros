@@ -1,0 +1,17 @@
+{
+  "name": "language-kmacros",
+  "version": "0.0.0",
+  "description": "KMacros language support in Atom",
+  "engines": {
+    "atom": "*"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kasasajuan/kmacros.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kasasajuan/kmacros/issues"
+  },
+  "license": "MIT"
+}
